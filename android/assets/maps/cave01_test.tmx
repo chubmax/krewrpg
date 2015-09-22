@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="25" height="25" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="snowtiles_1" tilewidth="16" tileheight="16" tilecount="30">
+  <image source="..\tiles\snowtiles_1.gif" width="160" height="48"/>
+ </tileset>
+ <layer name="Snow" width="25" height="25">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgoA/goCEetWPUjlE7Ru0YtWPUjlE7Ru0YbHbQGgAAb8I86MQJAAA=
+  </data>
+ </layer>
+ <layer name="Collision" width="25" height="25">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NnYGBgpwOmJRi1Y9SOUTtG7Ri1Y9SOUTtG7RhsdtAaAwDZsemExAkAAA==
+  </data>
+ </layer>
+</map>
