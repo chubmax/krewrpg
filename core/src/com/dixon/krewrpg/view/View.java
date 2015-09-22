@@ -27,7 +27,7 @@ public class View {
 		renderer = new OrthogonalTiledMapRenderer(map, 1 / 16f);
 		
 		spriteBatch = new SpriteBatch();
-		entities = level.getSprites();
+		entities = level.getEntities();
 
 	}
 

@@ -21,11 +21,11 @@ public class Level {
 		this.map = map;
 	}
 
-	public Array<Entity> getSprites() {
+	public Array<Entity> getEntities() {
 		return entities;
 	}
 
-	public void setSprites(Array<Entity> sprites) {
+	public void setEntities(Array<Entity> sprites) {
 		this.entities = sprites;
 	}
     
